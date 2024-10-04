@@ -75,7 +75,3 @@ Once the application is running, you can:
 
 If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome contributions of all kinds!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
