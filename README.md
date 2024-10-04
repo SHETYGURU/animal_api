@@ -8,7 +8,7 @@ This project is a web application that fetches and displays data from The Cat AP
 
 ## Live Demo
 
-[Live Demo Link](http://catdogapi.netlify.app)  
+[Live Demo Link](https://catdogapisample.netlify.app/)  
 
 ## Technologies Used
 
